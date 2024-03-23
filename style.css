@@ -1,0 +1,214 @@
+body {
+  font-family: "Orbitron", sans-serif;
+  display: flex;
+  margin: 0;
+  background-image: url(/Latihan/pic/bgr.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+.apl {
+  position: sticky;
+  text-align: center;
+  background-color: rgba(5, 5, 5, 0.5);
+  width: 15vh;
+  height: 100vh;
+}
+
+.icon1,
+.icon2,
+.icon3,
+.icon4,
+.icon5,
+.icon6 {
+  margin-top: 16px;
+}
+.icon1 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/instagram.jpeg);
+
+  background-size: contain;
+}
+.icon2 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/youtube.jpeg);
+
+  background-size: contain;
+}
+.icon3 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/whatsapp.jpeg);
+
+  background-size: contain;
+}
+.icon4 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/facebook.jpeg);
+
+  background-size: contain;
+}
+.icon5 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/spotify.jpeg);
+
+  background-size: contain;
+}
+.icon6 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/otakudesu.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon7 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/photos.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon8 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/pinterest.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon9 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/meet.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon10 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/docs.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon11 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/drive.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon12 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/classroom.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon13 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/gmail.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon14 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/slides.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon15 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/sheet.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+.icon16 {
+  text-align: center;
+  border-radius: 20px;
+  width: 70%;
+  height: 10.5%;
+  background-image: url(/Latihan/pic/trans.jpeg);
+  background-position: center;
+  background-size: contain;
+}
+
+.pp {
+  margin-top: 10px;
+  width: 80%;
+  border: dashed whitesmoke;
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+.wall {
+  text-align: center;
+  flex: 1;
+}
+.wall input {
+  margin-top: 50px;
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+  font-size: 170%;
+  height: 80px;
+  width: 80px;
+  border: solid rgb(68, 0, 255);
+  outline: none;
+  background-color: rgba(63, 15, 163, 0.8);
+  color: azure;
+  border-radius: 50px;
+  transition: width 0.5s ease;
+}
+.wall input:focus {
+    height: 80px;
+  width: 60%;
+  border: 5px double rgb(255, 0, 0);
+}
+::placeholder{
+    color: red;
+}
+.wall .apli {
+  display: block;
+  margin-top: 70px;
+}
+.apli button {
+  width: 75px;
+  height: 75px;
+  margin: 10px;
+}
