@@ -2,7 +2,7 @@ body {
   font-family: "Orbitron", sans-serif;
   display: flex;
   margin: 0;
-  background-image: url(/Latihan/pic/bgr.jpg);
+  background-image: url(bgr.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/instagram.jpeg);
+  background-image: url(instagram.jpeg);
 
   background-size: contain;
 }
@@ -39,7 +39,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/youtube.jpeg);
+  background-image: url(youtube.jpeg);
 
   background-size: contain;
 }
@@ -48,7 +48,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/whatsapp.jpeg);
+  background-image: url(whatsapp.jpeg);
 
   background-size: contain;
 }
@@ -57,7 +57,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/facebook.jpeg);
+  background-image: url(facebook.jpeg);
 
   background-size: contain;
 }
@@ -66,7 +66,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/spotify.jpeg);
+  background-image: url(spotify.jpeg);
 
   background-size: contain;
 }
@@ -75,7 +75,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/otakudesu.jpeg);
+  background-image: url(otakudesu.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -84,7 +84,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/photos.jpeg);
+  background-image: url(photos.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -93,7 +93,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/pinterest.jpeg);
+  background-image: url(pinterest.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -102,7 +102,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/meet.jpeg);
+  background-image: url(meet.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -111,7 +111,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/docs.jpeg);
+  background-image: url(docs.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -120,7 +120,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/drive.jpeg);
+  background-image: url(drive.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -129,7 +129,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/classroom.jpeg);
+  background-image: url(classroom.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -138,7 +138,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/gmail.jpeg);
+  background-image: url(gmail.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -147,7 +147,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/slides.jpeg);
+  background-image: url(slides.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -156,7 +156,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/sheet.jpeg);
+  background-image: url(sheet.jpeg);
   background-position: center;
   background-size: contain;
 }
@@ -165,7 +165,7 @@ body {
   border-radius: 20px;
   width: 70%;
   height: 10.5%;
-  background-image: url(/Latihan/pic/trans.jpeg);
+  background-image: url(trans.jpeg);
   background-position: center;
   background-size: contain;
 }
